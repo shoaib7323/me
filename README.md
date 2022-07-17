@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [microfinance](https://microfinplus.com/ambalafoundation/public/login)
+- 🔭 I’m currently working on [Ambala IT](https://www.ambalait.com/)
 
 - 🌱 I’m currently learning **vue js**
 
